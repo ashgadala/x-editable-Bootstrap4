@@ -1,4 +1,7 @@
 # x-editable-Bootstrap4
+
+DONOT FORK this yet. Still reviewing the files
+
 As of Aug 5th 2018 this is just a copy of https://github.com/Talv/x-editable who implemented the bootstrap4 on the original project https://github.com/vitalets/x-editable .
 
 Credits to origical author for the wonderful project.
