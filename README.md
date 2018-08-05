@@ -1,9 +1,9 @@
 # x-editable-Bootstrap4
 
-Still testing. Select2 plugin integration is failing. Will need to investingage. 
+DONOT FORK or USE this yet this yet. Still reviewing the files 
+Still testing. Select2 plugin integration is failing. Will need to investingate.
+--Aug 5th 2018 12:19pm
 
-
-DONOT FORK or USE this yet this yet. Still reviewing the files
 
 As of Aug 5th 2018 this is just a copy of https://github.com/Talv/x-editable who implemented the bootstrap4 on the original project https://github.com/vitalets/x-editable .
 
